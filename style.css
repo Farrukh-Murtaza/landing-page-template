@@ -26,3 +26,19 @@ nav ul {
 ul li a {
     text-decoration: none;
 }
+
+
+
+.input {
+    padding: 12px 0px;
+}
+
+.section,
+footer {
+    padding: 20px 60px;
+
+}
+
+footer ul {
+    padding: 0px;
+}
